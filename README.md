@@ -2,4 +2,8 @@
 ## 👨‍💻 Author
 **RIYAN SANDI PRYAOGA**  
 NIM: 123140176  
-Mata Kuliah: Intelegensi Buatan
+
+**Michael Mathew**
+NIM : 123140101
+
+## Intelegensi Buatan
